@@ -41,7 +41,7 @@ Let me conclude the above description in a single word for you. I'm an Engineeri
 ## 🔎 Find Me On
 <p align="center">
  <a href="https://www.facebook.com/profile.php?id=100015922392606" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/37/37409.png" alt="Python" height="40" style="vertical-align:top; margin:15px"> </a>
- <a href="https://aishwarya-singh04.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/512/part+1+github-1320568339880199515.png" alt="Python" height="45" style="vertical-align:top; margin:15px"> </a>
+ <a href="https://github.com/aishwarya-singh04?tab=repositories" target="_blank" rel="noopener noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/512/part+1+github-1320568339880199515.png" alt="Python" height="45" style="vertical-align:top; margin:15px"> </a>
  <a href="https://linkedin.com/in/aishwaryaasingh" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:15px"></a>
  <a href="mailto:aishwaryasingh2427@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:15px"></a>
   <a href="https://www.instagram.com/aish.waryaa__"> <img src="https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/instagram-512.png" alt="Python" height="45" style="vertical-align:top; margin:15px"></a>
