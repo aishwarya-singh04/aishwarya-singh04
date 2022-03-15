@@ -30,7 +30,6 @@ Let me introduce myself in brief. I'm an Engineering student 🎓 who's doing in
 <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="Javascript" height="40" style="vertical-align:top; margin:10px">
 <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="Javascript" height="40" style="vertical-align:top; margin:10px">
 <img src="https://img-premium.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1631722352~hmac=0b9e3837b04ca80f93fa22b79890623c" alt="Javascript" height="40" style="vertical-align:top; margin:10px">
-<img src="https://as1.ftcdn.net/v2/jpg/01/39/48/46/500_F_139484626_cqPNhvfRtWrNMNmuSeBMBiCUkPJTzgjS.jpg" alt="Javascript" height="45" style="vertical-align:top; margin:10px">
 <img src="https://cdn-icons-png.flaticon.com/512/617/617517.png" alt="Python" height="40" style="vertical-align; margin: 10px">
 
 <img src="https://cdn-icons-png.flaticon.com/512/288/288882.png" alt="Python" height="40" style="vertical-align; margin: 10px">
