@@ -1,4 +1,4 @@
-## Hi there 🙋‍♀️🏻 I'm Aishwarya!
+## Hi there🙋‍♀️ I'm Aishwarya!
 
 ### Here I opensource stuffs! ✨ </br>
 ![](https://visitor-badge.laobi.icu/badge?page_id=aishwarya-singh04.aishwarya-singh04) [![Github](https://img.shields.io/github/followers/aishwarya-singh04?label=Follow&style=social)](https://github.com/aishwarya-singh04)</br></br>
