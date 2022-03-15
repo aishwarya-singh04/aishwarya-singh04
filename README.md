@@ -29,7 +29,7 @@ Let me introduce myself in brief. I'm an Engineering student 🎓 who's doing in
 <img src="https://t3.ftcdn.net/jpg/00/62/57/34/240_F_62573467_9ssewgM2Jw6FJh8u6asekeXLP7s94Qw4.jpg" alt="Javascript" height="40" style="vertical-align:top; margin:10px">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="Javascript" height="40" style="vertical-align:top; margin:10px">
 <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="Javascript" height="40" style="vertical-align:top; margin:10px">
-<img src="https://img-premium.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1631722352~hmac=0b9e3837b04ca80f93fa22b79890623c" alt="Javascript" height="40" style="vertical-align:top; margin:10px">
+<!-- <img src="https://img-premium.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1631722352~hmac=0b9e3837b04ca80f93fa22b79890623c" alt="Javascript" height="40" style="vertical-align:top; margin:10px"> -->
 <img src="https://cdn-icons-png.flaticon.com/512/617/617517.png" alt="Python" height="40" style="vertical-align; margin: 10px">
 
 <img src="https://cdn-icons-png.flaticon.com/512/288/288882.png" alt="Python" height="40" style="vertical-align; margin: 10px">
