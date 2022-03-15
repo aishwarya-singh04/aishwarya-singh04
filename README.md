@@ -7,7 +7,7 @@ Love exploring varied perception in Life and so in technologies. Keenly interest
 ![Eat Sleep Code Repeat](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif )</br><br />
 Learning different technologies and applying them in real excites me! 🤩<br />
 I can't sit idle for long. Infact, keeping myself busy in work makes me happier 👻<br />
-Let me conclude the above description in a single word for you. I'm an Engineering student 🎓 who's doing intership **@Staqo World** (IT sector of **Sheela Foam**) and loves singing 🎶 <br />
+Let me introduce myself in brief. I'm an Engineering student 🎓 who's doing intership **@Staqo World** (IT sector of **Sheela Foam**) and loves singing 🎶 <br />
 
 
 
