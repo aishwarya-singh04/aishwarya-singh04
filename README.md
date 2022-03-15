@@ -1,6 +1,6 @@
-## Hi there 🙋🏻 I'm Aishwarya!
+## Hi there 🙋‍♀️🏻 I'm Aishwarya!
 
-### This is the place where I opensource stuffs! ✨ </br>
+### Here I opensource stuffs! ✨ </br>
 ![](https://visitor-badge.laobi.icu/badge?page_id=aishwarya-singh04.aishwarya-singh04) [![Github](https://img.shields.io/github/followers/aishwarya-singh04?label=Follow&style=social)](https://github.com/aishwarya-singh04)</br></br>
 I'm an enthusiastic learner full with optimism, both in LIFE and in CODING. Even 100 errors won't stop me 🤷🏻‍♀️<br />
 Love exploring varied perception in Life and so in technologies. Keenly interested in **FullStack Development** and **Machine Learning** 👀<br /><br />
