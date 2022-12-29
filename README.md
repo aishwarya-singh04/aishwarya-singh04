@@ -7,12 +7,11 @@ Love exploring varied perception in Life and so in technologies. Keenly interest
 ![Eat Sleep Code Repeat](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif )</br><br />
 Learning different technologies and applying them in real excites me! 🤩<br />
 I can't sit idle for long. Infact, keeping myself busy in work makes me happier 👻<br />
-Let me introduce myself in brief. I'm an Engineering student 🎓 who's doing intership **@Staqo World** (IT sector of **Sheela Foam**) and loves singing 🎶 <br />
+Let me introduce myself in brief. I'm an Engineering graduate 🎓 and a working proffessional at **@Staqo World Pvt Ltd** (IT subsidiary of **Sheela Foam Pvt Ltd**) and loves singing 🎶 <br />
 
 
 
-- 🔭 I’m currently working on two web development projects parallely. Will add them here super soon!😉
-- 🌱 Well, I’m currently learning ML and React.🧐
+- 🔭 Currently working in React Native. Will add them here super soon!😉
 - 👯 Looking to collaborate on Web development projects.🤗
 - 🤔 I’m looking for help with Android development.🤯
 - 💬 You can ask me about JavaScript/Java/Python 🤓
