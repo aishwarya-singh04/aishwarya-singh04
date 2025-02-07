@@ -15,7 +15,7 @@ Let me introduce myself in brief. I'm an Engineering graduate 🎓 and a working
 - 👯 Looking to collaborate on Web development projects.🤗
 - 🤔 I’m looking for help with Android development.🤯
 - 💬 You can ask me about JavaScript/Java/Python 🤓
-- 📫 Connect me via @aishwaryasingh2427@gmail.com 🔗
+- 📫 Connect me via @singhaishwaryaa04@gmail.com 🔗
 - ⚡ Fun fact: NAPS😴 in-between coding improve logic.😂
 </br></br>
 
